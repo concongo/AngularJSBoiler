@@ -41,5 +41,7 @@ It will start a local server using `webpack-dev-server` which will watch, build 
 
 [MIT](/LICENSE)
 
-Based on https://github.com/Foxandxss/angular-webpack-workflow
-and http://angular-tips.com/blog/2015/06/using-angular-1-dot-x-with-es6-and-webpack/
+Based on
+* https://github.com/Foxandxss/angular-webpack-workflow
+
+* http://angular-tips.com/blog/2015/06/using-angular-1-dot-x-with-es6-and-webpack/
